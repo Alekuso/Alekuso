@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- If you don't see lot of repositories, it's because it put them in private for a temporary time
 <!--
 **Alekuso/Alekuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
