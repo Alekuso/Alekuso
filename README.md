@@ -7,3 +7,5 @@
 ![Top Contribs](https://api.githubtrends.io/user/svg/Alekuso/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=bright_lights)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alekuso&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![wakatime](https://wakatime.com/badge/user/cc0b622f-964e-42d7-b9c8-9401c6a4c049.svg)](https://wakatime.com/@cc0b622f-964e-42d7-b9c8-9401c6a4c049)
